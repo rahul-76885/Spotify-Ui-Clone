@@ -21,7 +21,7 @@ This project is a **frontend clone** of the Spotify Web Player interface, built 
 
 ## 📷 Screenshot
 
-![Spotify UI Clone Screenshot](./assets/card1img.jpeg)
+![Spotify UI Clone Screenshot](./assets/image.png)
 
 ## 📌 Notes
 

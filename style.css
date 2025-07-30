@@ -134,7 +134,6 @@ a {
 
 .box {
     background-color: #232323;
-    /* height: 10rem; Removed - rigid height can cause overflow if content is longer */
     border-radius: 0.75rem;
     margin: 0.75rem 0 1.75rem 0;
     padding: 0.75rem 1rem;
